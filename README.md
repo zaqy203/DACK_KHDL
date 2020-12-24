@@ -1,1 +1,4 @@
 # DACK_KHDL
+NHÓM 36
+1. 18120164 Lê Minh Đức
+2.
